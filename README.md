@@ -18,3 +18,6 @@ As a data analyst who has been provided with sample data and a mock-up dashboard
 
 ## Dashboard Created
 Link for the AtliQ Hospitality Dashboard - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzI4NDNjMjUtMTBkNi00NGU3LTk3MzEtODRjZWZiMjVjMzNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+## Data Modeling
+![data modeling](https://github.com/Shahna-k25/AtliQ-Hospitality-Domain/blob/main/AtliQ%20datamodeling.png)
