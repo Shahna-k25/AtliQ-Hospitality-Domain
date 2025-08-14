@@ -21,3 +21,60 @@ Link for the AtliQ Hospitality Dashboard - [Live Dashboard](https://app.powerbi.
 
 ## Data Modeling
 ![data modeling](https://github.com/Shahna-k25/AtliQ-Hospitality-Domain/blob/main/AtliQ%20datamodeling.png)
+
+## Tools Used
+- Power BI
+- Excel
+
+## Project Approach
+
+📊 **Data Loading & Cleaning**
+
+- Loaded raw data into Power BI via Power Query.
+
+- Applied data transformations and cleaning steps to ensure accuracy, consistency, and integrity.
+
+🗂 **Data Modeling**
+
+- Built comprehensive data models and established relationships between multiple tables.
+
+- Structured datasets for efficient querying and meaningful analysis.
+
+📐 **DAX Calculations**
+
+- Developed measures and calculated columns using DAX (Data Analysis Expressions) to generate key performance metrics.
+
+- Implemented advanced DAX formulas for deeper analytical insights.
+
+📈 **Dashboard Creation**
+
+- Designed visually appealing, interactive dashboards in Power BI.
+
+- Incorporated slicers, filters, and KPIs for intuitive user navigation and decision-making.
+
+## Key Highlights
+
+
+ - Conducted an in-depth hospitality sector analysis, focusing on revenue patterns and overall performance.
+
+- Identified top- and bottom-performing cities by revenue through detailed trend analysis.
+
+- Developed and monitored KPIs to track performance and pinpoint underperforming areas.
+
+- Delivered actionable insights to boost revenue generation and enhance operational efficiency.
+
+##  Key Learnings
+
+- Proficient in Power BI for data cleaning, modeling, and visualization.
+
+- Skilled in advanced DAX for KPI creation and trend analysis.
+
+- Strong understanding of data relationships and model optimization.
+
+- Ability to convert raw data into actionable business insights.
+
+- Experience designing interactive, user-focused dashboards.
+
+## Conclusion
+
+This Power BI Hospitality Insights Dashboard provides a complete view of performance across revenue, occupancy, and booking channels. By combining clean data, strong modeling, and advanced DAX calculations, it transforms numbers into meaningful insights. This helps hospitality businesses identify strengths, address weaknesses, and make faster, more informed decisions to stay competitive in a changing market.
