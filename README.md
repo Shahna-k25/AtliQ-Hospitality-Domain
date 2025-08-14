@@ -17,4 +17,4 @@ As a data analyst who has been provided with sample data and a mock-up dashboard
 ![Mockup dashbord](https://github.com/Shahna-k25/AtliQ-Hospitality-Domain/blob/main/mock%20up%20dashboard_atliq%20grands.png)
 
 ## Dashboard Created
-![link to the Interactive Dashboard](https://lnkd.in/gzkFNJ7X)
+Link for the AtliQ Hospitality Dashboard - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzI4NDNjMjUtMTBkNi00NGU3LTk3MzEtODRjZWZiMjVjMzNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
