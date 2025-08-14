@@ -15,3 +15,6 @@ As a data analyst who has been provided with sample data and a mock-up dashboard
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 ## Mockup Dashboard
 ![Mockup dashbord](https://github.com/Shahna-k25/AtliQ-Hospitality-Domain/blob/main/mock%20up%20dashboard_atliq%20grands.png)
+
+## Dashboard Created
+![link to the Interactive Dashboard](https://lnkd.in/gzkFNJ7X)
